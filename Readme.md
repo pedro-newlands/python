@@ -1,4 +1,4 @@
-# ***Python fundamentals***
+# ***Python Fundamentals***
 This repository covers the core fundamentals of Python, including:
 
 - Comparison operators
