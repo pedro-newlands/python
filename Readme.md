@@ -1,2 +1,2 @@
-# Fundamentos Python
-___pequeno repositório destinado ao aprendizado de python___
+**Python fundamentals**
+__A lightweight repository to explore and learn Python__
